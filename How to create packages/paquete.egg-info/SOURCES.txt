@@ -1,0 +1,10 @@
+setup.py
+paquete/__init__.py
+paquete.egg-info/PKG-INFO
+paquete.egg-info/SOURCES.txt
+paquete.egg-info/dependency_links.txt
+paquete.egg-info/top_level.txt
+paquete/action/__init__.py
+paquete/action/alerta.py
+paquete/execution/__init__.py
+paquete/execution/execution.py
